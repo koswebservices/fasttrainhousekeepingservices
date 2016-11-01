@@ -39,9 +39,7 @@ body {
 }
 
 ul{
-  padding: 0;
-  margin: 0;
-  list-style: none;
+  list-style-type: square;
 }
 
 a{ 
@@ -132,6 +130,14 @@ img{
 	display: inline;
 	width: 100%;
 	position: relative;
+}
+#headerimg
+{
+  background: white;
+  padding: 10px;
+  margin-top: -10px;
+  border: 1px solid #50505d;
+  border-top: none;
 }
 
 /*--------.menu_area-------- */
@@ -600,14 +606,25 @@ div[data-dimension] {
 }
 
 /*--------------------*/
+/* quality SECTION */
+/*--------------------*/
+
+#quality {
+  display: inline;
+  float: left;
+  padding: 0px 0 70px;
+  width: 100%;
+}
+
+
+/*--------------------*/
 /* Works SECTION */
 /*--------------------*/
 
 #works {
-  background-color: #4f535e;
   display: inline;
   float: left;
-  padding: 0 0 80px;
+  padding: 0 0 0px;
   width: 100%;
 }
 .counter_section {
@@ -1104,7 +1121,12 @@ div[data-dimension] {
   float: left;
   text-align: center;
   width: 100%;
-  padding: 25px 0px;
+  padding: 25px 10px;
+  height: 90px;
+}
+.single_client h4
+{
+    font-size: 15px !important;
 }
 .single_client>img{
 	margin: 0 auto;
@@ -1247,6 +1269,7 @@ textarea .form-control {
   padding: 20px 10px;
   text-align: center;
   width: 100%;
+  height: 215px;
 }
 .single_contact_feaured > i {
   font-size: 50px;

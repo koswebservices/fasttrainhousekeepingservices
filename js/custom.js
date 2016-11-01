@@ -42,7 +42,7 @@ jQuery(function($){
 	// For fixed top bar
        $(window).scroll(function(){
         if($(window).scrollTop() >100 /*or $(window).height()*/){
-            $(".navbar-fixed-top").addClass('past-main');   
+            $(".navbar-fixed-top").addClass('past-main'); 
         }
     else{    	
       $(".navbar-fixed-top").removeClass('past-main');
@@ -358,8 +358,8 @@ jQuery(function($){
 	  var zoom= $('#map_canvas').gmap('option', 'zoom');
       
       $('#map_canvas').gmap().bind('init', function(ev, map) {
-        $('#map_canvas').gmap('addMarker', {'position': '57.7973433,12.0502107', 'bounds': true});
-        $('#map_canvas').gmap('option', 'zoom', 13);
+        $('#map_canvas').gmap('addMarker', {'position': '28.408413,77.053651', 'bounds': true});
+        $('#map_canvas').gmap('option', 'zoom', 15);
       });
 
 
