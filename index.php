@@ -7,7 +7,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Fast Train House Keeping Services</title>
-
+     <meta name="title" content="Fast Train House Keeping Services">
+     <meta name="description" content="Fast Train House Keeping Services. Best Housekeeping services for ur home and office.">
+     <meta name="keywords" content="Fast,Train,House,Keeping,Services,Diamond,Polishing">
+     <meta name="copyright" content="Fast Train House Keeping Services is registered trademark of Fast Train G S Construction Pvt. Ltd.">
+     
     <!-- Mobile Specific Metas
     ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
