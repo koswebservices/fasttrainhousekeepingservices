@@ -11,7 +11,7 @@
      <meta name="description" content="Fast Train House Keeping Services. Best Housekeeping services for ur home and office.">
      <meta name="keywords" content="Fast,Train,House,Keeping,Services,Diamond,Polishing">
      <meta name="copyright" content="Fast Train House Keeping Services is registered trademark of Fast Train G S Construction Pvt. Ltd.">
-     
+
     <!-- Mobile Specific Metas
     ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,7 +24,7 @@
     <!-- All css file-->
     <link href="css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+
     <!-- Default Theme css file -->
     <link id="orginal" href="css/themes/default-theme.css" rel="stylesheet">
 
@@ -50,7 +50,7 @@
     </div>
     <!-- END PRELOADER -->
 
-    <?php include "mail.php"?>
+    <?php include "mail.php" ?>
 
     <!-- SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
@@ -182,7 +182,7 @@
                 <p class="text-center"><b>Gaurhari Dolai</b><br>
                 <small><i>Chief Executive Officer</i></small></p>
                 </div>
-              
+
 
               <!-- START ABOUT CONTENT -->
               <div class="about_content">
@@ -190,7 +190,7 @@
                   <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="about_featured">
                       <div class="panel-group" id="accordion">
-                        <!-- START SINGLE FEATURED ITEAM #1-->
+                        <!-- START SINGLE FEATURED ITEAM -->
                         <div class="panel panel-default wow fadeInLeft">
                           <div class="panel-heading">
                             <h4 class="panel-title">
@@ -205,7 +205,7 @@
                             </div>
                           </div>
                         </div>
-                        <!-- START SINGLE FEATURED ITEAM #2 -->
+                        <!-- START SINGLE FEATURED ITEAM -->
                         <div class="panel panel-default wow fadeInLeft">
                           <div class="panel-heading">
                             <h4 class="panel-title">
@@ -249,7 +249,7 @@
                             </div>
                           </div>
                         </div>
-                  
+
                       </div>
                     </div>
                   </div>
@@ -272,6 +272,13 @@
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
                           <a href="#"> <img width="550" height="350" src="img/feature_img4.jpg" alt="img"></a>
+                        </div>
+                        <!-- SINGLE SLIDE IN THE SLIDER -->
+                        <div class="single_iteam">
+                          <a href="#"> <img width="550" height="350" src="img/feature_img5.jpg" alt="img"></a>
+                        </div>
+                        <div class="single_iteam">
+                          <a href="#"> <img width="550" height="350" src="img/feature_img6.jpg" alt="img"></a>
                         </div>
                       </div>
                       <!-- END FEATURED SLIDER -->
@@ -406,7 +413,7 @@
         </div>
       </div>
     </section>
-    
+
 
     <!--=========== BEGAIN WORKS SECTION ================-->
     <section id="works">
@@ -637,9 +644,9 @@
          <div class="row">
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_left">
-				
+
                <p>Copyright &copy; 2016 <a href="/">FAST TRAIN G.S. CONSTRUCTION PVT LTD</a>. All Rights Reserved</p>
-			   
+
              </div>
            </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
