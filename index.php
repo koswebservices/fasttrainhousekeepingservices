@@ -32,9 +32,9 @@
     <link href="style.css" rel="stylesheet">
 
     <!-- Google fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Varela' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -651,7 +651,7 @@
            </div>
            <div class="col-lg-6 col-md-6 col-sm-6">
              <div class="footer_right">
-               <p class="social_nav" style="color:#a7a7a7"><small>Designed and Hosted by <a style="color:#60c9ea" href="http://rinetech.com" target="_blank">Rine Technologies</a></small></p>
+               <p class="social_nav" style="color:#a7a7a7"><small>Designed and Hosted by <a style="color:#60c9ea" href="https://rinetech.com" target="_blank">Rine Technologies</a></small></p>
              </div>
            </div>
          </div>
