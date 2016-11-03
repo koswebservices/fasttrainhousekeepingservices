@@ -259,26 +259,26 @@
                       <div class="featured_slider">
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img1.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img1s.jpg" alt="img"></a>
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img2.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img2s.jpg" alt="img"></a>
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img3.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img3s.jpg" alt="img"></a>
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img4.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img4s.jpg" alt="img"></a>
                         </div>
                         <!-- SINGLE SLIDE IN THE SLIDER -->
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img5.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img5s.jpg" alt="img"></a>
                         </div>
                         <div class="single_iteam">
-                          <a href="#"> <img width="550" height="350" src="img/feature_img6.jpg" alt="img"></a>
+                          <a href="#"> <img width="550" height="350" src="img/feature_img6s.jpg" alt="img"></a>
                         </div>
                       </div>
                       <!-- END FEATURED SLIDER -->
